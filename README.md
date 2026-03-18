@@ -1,6 +1,6 @@
 # ImageShift
 
-A browser extension that lets you right-click any image and save it as JPG, PNG, or WebP.
+A simple browser extension that lets you right-click any image and save it as JPG, PNG, or WebP.
 
 ## Install
 1. Download or clone this repo
